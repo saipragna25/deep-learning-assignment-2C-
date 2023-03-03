@@ -2,9 +2,9 @@ Assignment 2c - demonstrate various tensor operations
 
 The following algorithms in tensorflow
 
-a) linear search:
+a) linear search
+b) insertion sort
+c) binary search
 
-b) insertion sort:
-
-c) binary search:
+COLLAB LINK:
 
